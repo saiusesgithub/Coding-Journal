@@ -1,7 +1,3 @@
----
-type: Journal
----
-
 # 📝 Coding Journal — YYYY-MM-DD
 
 ---
