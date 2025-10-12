@@ -1,9 +1,9 @@
-# 📝 Coding Journal — YYYY-MM-DD
+# 📝 Coding Journal — DD-MM-YYYY
 
 ---
 
 ## 📅 Daily Overview
-- **Date:** YYYY-MM-DD  
+- **Date:** DD-MM-YYYY  
 - **Day of Week:**  
 - **Mood / Energy Level:** 😀😐😴🔥 (e.g., “Felt focused in the morning, tired in the evening”)  
 - **Total Coding Time:** X hrs  
