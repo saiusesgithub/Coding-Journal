@@ -117,4 +117,4 @@
 ## 🔮 Long-Term Notes (Optional)
 - Ideas to revisit later:  
 - Concepts to dive deeper into:  
-- Potential project improvements:  
+- Potential project improvements:
