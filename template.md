@@ -107,6 +107,11 @@
 
 ---
 
+## How many of my planned goals did I accomplish today? 
+- ( x accomplished / y planned )
+
+---
+
 ## 🗓️ Plan for Tomorrow
 - Goal 1  
 - Goal 2  
